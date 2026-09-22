@@ -1,0 +1,56 @@
+[
+  {
+    "foreground": "ink",
+    "background": "paper",
+    "ratio": 13.82,
+    "pass_4_5": true
+  },
+  {
+    "foreground": "muted",
+    "background": "paper",
+    "ratio": 4.53,
+    "pass_4_5": true
+  },
+  {
+    "foreground": "muted",
+    "background": "surface",
+    "ratio": 4.98,
+    "pass_4_5": true
+  },
+  {
+    "foreground": "ink",
+    "background": "coral",
+    "ratio": 5.63,
+    "pass_4_5": true
+  },
+  {
+    "foreground": "ink",
+    "background": "lime",
+    "ratio": 12.09,
+    "pass_4_5": true
+  },
+  {
+    "foreground": "ink",
+    "background": "violet",
+    "ratio": 10.66,
+    "pass_4_5": true
+  },
+  {
+    "foreground": "ink",
+    "background": "selected",
+    "ratio": 13.69,
+    "pass_4_5": true
+  },
+  {
+    "foreground": "surface",
+    "background": "focus",
+    "ratio": 6.84,
+    "pass_4_5": true
+  },
+  {
+    "foreground": "focus",
+    "background": "paper",
+    "ratio": 6.23,
+    "pass_4_5": true
+  }
+]

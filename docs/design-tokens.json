@@ -1,0 +1,780 @@
+{
+  "variables": [
+    {
+      "id": "VariableID:7:4",
+      "name": "raw/paper",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:2",
+      "values": {
+        "7:0": {
+          "r": 0.9647058844566345,
+          "g": 0.9529411792755127,
+          "b": 0.9215686321258545,
+          "a": 1
+        }
+      },
+      "scopes": [],
+      "codeSyntax": {
+        "WEB": "var(--paper)"
+      }
+    },
+    {
+      "id": "VariableID:7:5",
+      "name": "color/paper",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:7:4"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "TEXT_FILL",
+        "STROKE_COLOR"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--paper)"
+      }
+    },
+    {
+      "id": "VariableID:7:6",
+      "name": "raw/surface",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:2",
+      "values": {
+        "7:0": {
+          "r": 1,
+          "g": 0.9960784316062927,
+          "b": 0.9803921580314636,
+          "a": 1
+        }
+      },
+      "scopes": [],
+      "codeSyntax": {
+        "WEB": "var(--surface)"
+      }
+    },
+    {
+      "id": "VariableID:7:7",
+      "name": "color/surface",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:7:6"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "TEXT_FILL",
+        "STROKE_COLOR"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--surface)"
+      }
+    },
+    {
+      "id": "VariableID:7:8",
+      "name": "raw/ink",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:2",
+      "values": {
+        "7:0": {
+          "r": 0.15294118225574493,
+          "g": 0.14509804546833038,
+          "b": 0.12156862765550613,
+          "a": 1
+        }
+      },
+      "scopes": [],
+      "codeSyntax": {
+        "WEB": "var(--ink)"
+      }
+    },
+    {
+      "id": "VariableID:7:9",
+      "name": "color/ink",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:7:8"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "TEXT_FILL",
+        "STROKE_COLOR"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--ink)"
+      }
+    },
+    {
+      "id": "VariableID:7:10",
+      "name": "raw/muted",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:2",
+      "values": {
+        "7:0": {
+          "r": 0.4470588266849518,
+          "g": 0.43529412150382996,
+          "b": 0.3960784375667572,
+          "a": 1
+        }
+      },
+      "scopes": [],
+      "codeSyntax": {
+        "WEB": "var(--muted)"
+      }
+    },
+    {
+      "id": "VariableID:7:11",
+      "name": "color/muted",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:7:10"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "TEXT_FILL",
+        "STROKE_COLOR"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--muted)"
+      }
+    },
+    {
+      "id": "VariableID:7:12",
+      "name": "raw/line",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:2",
+      "values": {
+        "7:0": {
+          "r": 0.8392156958580017,
+          "g": 0.8156862854957581,
+          "b": 0.7607843279838562,
+          "a": 1
+        }
+      },
+      "scopes": [],
+      "codeSyntax": {
+        "WEB": "var(--line)"
+      }
+    },
+    {
+      "id": "VariableID:7:13",
+      "name": "color/line",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:7:12"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "TEXT_FILL",
+        "STROKE_COLOR"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--line)"
+      }
+    },
+    {
+      "id": "VariableID:7:14",
+      "name": "raw/coral",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:2",
+      "values": {
+        "7:0": {
+          "r": 0.9803921580314636,
+          "g": 0.45490196347236633,
+          "b": 0.3607843220233917,
+          "a": 1
+        }
+      },
+      "scopes": [],
+      "codeSyntax": {
+        "WEB": "var(--coral)"
+      }
+    },
+    {
+      "id": "VariableID:7:15",
+      "name": "color/coral",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:7:14"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "TEXT_FILL",
+        "STROKE_COLOR"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--coral)"
+      }
+    },
+    {
+      "id": "VariableID:7:16",
+      "name": "raw/lime",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:2",
+      "values": {
+        "7:0": {
+          "r": 0.8509804010391235,
+          "g": 0.9372549057006836,
+          "b": 0.47843137383461,
+          "a": 1
+        }
+      },
+      "scopes": [],
+      "codeSyntax": {
+        "WEB": "var(--lime)"
+      }
+    },
+    {
+      "id": "VariableID:7:17",
+      "name": "color/lime",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:7:16"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "TEXT_FILL",
+        "STROKE_COLOR"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--lime)"
+      }
+    },
+    {
+      "id": "VariableID:7:18",
+      "name": "raw/violet",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:2",
+      "values": {
+        "7:0": {
+          "r": 0.8666666746139526,
+          "g": 0.8235294222831726,
+          "b": 0.9607843160629272,
+          "a": 1
+        }
+      },
+      "scopes": [],
+      "codeSyntax": {
+        "WEB": "var(--violet)"
+      }
+    },
+    {
+      "id": "VariableID:7:19",
+      "name": "color/violet",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:7:18"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "TEXT_FILL",
+        "STROKE_COLOR"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--violet)"
+      }
+    },
+    {
+      "id": "VariableID:7:20",
+      "name": "raw/selected",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:2",
+      "values": {
+        "7:0": {
+          "r": 0.9411764740943909,
+          "g": 0.9607843160629272,
+          "b": 0.8509804010391235,
+          "a": 1
+        }
+      },
+      "scopes": [],
+      "codeSyntax": {
+        "WEB": "var(--selected)"
+      }
+    },
+    {
+      "id": "VariableID:7:21",
+      "name": "color/selected",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:7:20"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "TEXT_FILL",
+        "STROKE_COLOR"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--selected)"
+      }
+    },
+    {
+      "id": "VariableID:7:22",
+      "name": "gap/sm",
+      "type": "FLOAT",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": 8
+      },
+      "scopes": [
+        "GAP"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--gap-sm)"
+      }
+    },
+    {
+      "id": "VariableID:7:23",
+      "name": "gap/md",
+      "type": "FLOAT",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": 16
+      },
+      "scopes": [
+        "GAP"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--gap-md)"
+      }
+    },
+    {
+      "id": "VariableID:7:24",
+      "name": "gap/lg",
+      "type": "FLOAT",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": 24
+      },
+      "scopes": [
+        "GAP"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--gap-lg)"
+      }
+    },
+    {
+      "id": "VariableID:7:25",
+      "name": "radius/choice",
+      "type": "FLOAT",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": 12
+      },
+      "scopes": [
+        "CORNER_RADIUS"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--radius-choice)"
+      }
+    },
+    {
+      "id": "VariableID:7:26",
+      "name": "radius/button",
+      "type": "FLOAT",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": 10
+      },
+      "scopes": [
+        "CORNER_RADIUS"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--radius-button)"
+      }
+    },
+    {
+      "id": "VariableID:27:38",
+      "name": "raw/focus",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:2",
+      "values": {
+        "7:0": {
+          "r": 0.3960784375667572,
+          "g": 0.25882354378700256,
+          "b": 0.729411780834198,
+          "a": 1
+        }
+      },
+      "scopes": [],
+      "codeSyntax": {
+        "WEB": "var(--focus)"
+      }
+    },
+    {
+      "id": "VariableID:27:39",
+      "name": "color/focus",
+      "type": "COLOR",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:38"
+        }
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL",
+        "TEXT_FILL",
+        "STROKE_COLOR"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--focus)"
+      }
+    },
+    {
+      "id": "VariableID:66:38",
+      "name": "gap/none",
+      "type": "FLOAT",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": 0
+      },
+      "scopes": [
+        "GAP"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--gap-none)"
+      }
+    },
+    {
+      "id": "VariableID:66:39",
+      "name": "gap/xs",
+      "type": "FLOAT",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": 4
+      },
+      "scopes": [
+        "GAP"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--gap-xs)"
+      }
+    },
+    {
+      "id": "VariableID:66:40",
+      "name": "gap/choice",
+      "type": "FLOAT",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": 12
+      },
+      "scopes": [
+        "GAP"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--gap-choice)"
+      }
+    },
+    {
+      "id": "VariableID:66:41",
+      "name": "gap/panel",
+      "type": "FLOAT",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": 20
+      },
+      "scopes": [
+        "GAP"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--gap-panel)"
+      }
+    },
+    {
+      "id": "VariableID:66:42",
+      "name": "gap/section",
+      "type": "FLOAT",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": 32
+      },
+      "scopes": [
+        "GAP"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--gap-section)"
+      }
+    },
+    {
+      "id": "VariableID:66:43",
+      "name": "gap/page",
+      "type": "FLOAT",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": 40
+      },
+      "scopes": [
+        "GAP"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--gap-page)"
+      }
+    },
+    {
+      "id": "VariableID:66:44",
+      "name": "radius/small",
+      "type": "FLOAT",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": 4
+      },
+      "scopes": [
+        "CORNER_RADIUS"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--radius-small)"
+      }
+    },
+    {
+      "id": "VariableID:66:45",
+      "name": "radius/scene",
+      "type": "FLOAT",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": 16
+      },
+      "scopes": [
+        "CORNER_RADIUS"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--radius-scene)"
+      }
+    },
+    {
+      "id": "VariableID:66:46",
+      "name": "radius/card",
+      "type": "FLOAT",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": 18
+      },
+      "scopes": [
+        "CORNER_RADIUS"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--radius-card)"
+      }
+    },
+    {
+      "id": "VariableID:66:47",
+      "name": "radius/dialog",
+      "type": "FLOAT",
+      "collection": "VariableCollectionId:7:3",
+      "values": {
+        "7:1": 20
+      },
+      "scopes": [
+        "CORNER_RADIUS"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--radius-dialog)"
+      }
+    }
+  ],
+  "collections": [
+    {
+      "id": "VariableCollectionId:7:2",
+      "name": "Peredai / Primitives",
+      "mode": "7:0"
+    },
+    {
+      "id": "VariableCollectionId:7:3",
+      "name": "Peredai / Light",
+      "mode": "7:1"
+    }
+  ],
+  "styles": [
+    {
+      "id": "S:782559e38c513edae378b1d18250753e89838bbe,",
+      "name": "Peredai/Display",
+      "font": {
+        "family": "Inter",
+        "style": "Extra Bold",
+        "variationSettings": {
+          "wght": 800,
+          "slnt": 0
+        }
+      },
+      "size": 56,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 60
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -5
+      }
+    },
+    {
+      "id": "S:b21750e9c7df0c0d49d002992013ecdb66dd0dcd,",
+      "name": "Peredai/Mobile display",
+      "font": {
+        "family": "Inter",
+        "style": "Extra Bold",
+        "variationSettings": {
+          "wght": 800,
+          "slnt": 0
+        }
+      },
+      "size": 40,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 43
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -5
+      }
+    },
+    {
+      "id": "S:17ba8bd95110cfa97ef74003dbfe346ff3aa314c,",
+      "name": "Peredai/Heading",
+      "font": {
+        "family": "Inter",
+        "style": "Semi Bold",
+        "variationSettings": {
+          "wght": 600,
+          "slnt": 0
+        }
+      },
+      "size": 24,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 29
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:123c70b360e26a052091090ea7c28243252fe39a,",
+      "name": "Peredai/Body",
+      "font": {
+        "family": "Inter",
+        "style": "Regular",
+        "variationSettings": {
+          "wght": 400,
+          "slnt": 0
+        }
+      },
+      "size": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 22
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:4a228b7340b94417f201a5311f0d456a85c0dc71,",
+      "name": "Peredai/Label",
+      "font": {
+        "family": "Inter",
+        "style": "Semi Bold",
+        "variationSettings": {
+          "wght": 600,
+          "slnt": 0
+        }
+      },
+      "size": 14,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:2ab424e5054ab0385a06cad21deb41b765b13c1f,",
+      "name": "Peredai/Caption",
+      "font": {
+        "family": "Inter",
+        "style": "Regular",
+        "variationSettings": {
+          "wght": 400,
+          "slnt": 0
+        }
+      },
+      "size": 11,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 17
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:1f7639a631fb38587419331922fe463e8b1e0a95,",
+      "name": "Peredai/Eyebrow",
+      "font": {
+        "family": "Inter",
+        "style": "Semi Bold",
+        "variationSettings": {
+          "wght": 600,
+          "slnt": 0
+        }
+      },
+      "size": 10,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 15
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    }
+  ]
+}

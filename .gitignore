@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.cache/
+__pycache__/
+*.tsbuildinfo
+*.b64
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store

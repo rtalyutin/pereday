@@ -1,0 +1,10 @@
+{
+  "fileKey": "928uR3KiThQ0aUC9AZq8C8",
+  "version": "0.2",
+  "keyScreens": { "desktop": "15:2", "mobile": "15:3" },
+  "pages": { "keyScreen": "0:1", "foundations": "9:2" },
+  "foundations": "9:3",
+  "choiceCard": { "set": "10:4", "default": "10:2", "selected": "10:3", "labelProperty": "Label#10:0", "captionProperty": "Caption#10:3" },
+  "assetLayers": { "02C": "12:2", "B01": "13:2", "B02": "13:3", "B03": "14:2", "02A": "14:3", "02B": "14:4" },
+  "status": "key-screen-ready-for-review; full-screen-suite-pending"
+}

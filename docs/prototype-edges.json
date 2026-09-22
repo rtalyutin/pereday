@@ -1,0 +1,2216 @@
+[
+  {
+    "node": "I41:39;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:39;38:130",
+    "dest": "46:648",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:56",
+    "dest": "41:85",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:62",
+    "dest": "41:130",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:68",
+    "dest": "41:175",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:77;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:86;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:86;38:130",
+    "dest": "46:648",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:102",
+    "dest": "41:85",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:108",
+    "dest": "41:130",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:114",
+    "dest": "41:175",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:120",
+    "dest": "42:251",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:123;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:131;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:131;38:130",
+    "dest": "46:648",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:147",
+    "dest": "41:85",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:153",
+    "dest": "41:130",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:159",
+    "dest": "41:175",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:165",
+    "dest": "42:272",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:168;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:176;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:176;38:130",
+    "dest": "46:648",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:192",
+    "dest": "41:85",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:198",
+    "dest": "41:130",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:204",
+    "dest": "41:175",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:210",
+    "dest": "42:293",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:213;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:221;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:221;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:238",
+    "dest": "41:266",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:244",
+    "dest": "41:314",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:250",
+    "dest": "41:362",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:259;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:267;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:267;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:286",
+    "dest": "41:266",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:292",
+    "dest": "41:314",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:298",
+    "dest": "41:362",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:304",
+    "dest": "42:314",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:307;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:315;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:315;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:334",
+    "dest": "41:266",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:340",
+    "dest": "41:314",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:346",
+    "dest": "41:362",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:352",
+    "dest": "42:336",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:355;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:363;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:363;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:382",
+    "dest": "41:266",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:388",
+    "dest": "41:314",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:394",
+    "dest": "41:362",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "41:400",
+    "dest": "42:358",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I41:403;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1417;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "42:251",
+    "dest": "43:329",
+    "kind": "NAVIGATE",
+    "trigger": "AFTER_TIMEOUT"
+  },
+  {
+    "node": "I55:1423;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "42:272",
+    "dest": "43:358",
+    "kind": "NAVIGATE",
+    "trigger": "AFTER_TIMEOUT"
+  },
+  {
+    "node": "I55:1429;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "42:293",
+    "dest": "43:387",
+    "kind": "NAVIGATE",
+    "trigger": "AFTER_TIMEOUT"
+  },
+  {
+    "node": "I55:1435;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "42:314",
+    "dest": "43:416",
+    "kind": "NAVIGATE",
+    "trigger": "AFTER_TIMEOUT"
+  },
+  {
+    "node": "I55:1441;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "42:336",
+    "dest": "43:446",
+    "kind": "NAVIGATE",
+    "trigger": "AFTER_TIMEOUT"
+  },
+  {
+    "node": "I55:1447;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "42:358",
+    "dest": "43:476",
+    "kind": "NAVIGATE",
+    "trigger": "AFTER_TIMEOUT"
+  },
+  {
+    "node": "42:399",
+    "dest": "42:402",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1453;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1459;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "42:402",
+    "dest": "43:476",
+    "kind": "NAVIGATE",
+    "trigger": "AFTER_TIMEOUT"
+  },
+  {
+    "node": "42:443",
+    "dest": "42:424",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1465;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:330;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:330;38:130",
+    "dest": "46:814",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "43:347",
+    "dest": "44:455",
+    "kind": "OVERLAY",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "43:349",
+    "dest": "47:756",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:351;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:359;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:359;38:130",
+    "dest": "46:845",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "43:376",
+    "dest": "44:455",
+    "kind": "OVERLAY",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "43:378",
+    "dest": "47:1024",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:380;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:388;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:388;38:130",
+    "dest": "46:876",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "43:405",
+    "dest": "44:455",
+    "kind": "OVERLAY",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "43:407",
+    "dest": "47:1055",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:409;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:417;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:417;38:130",
+    "dest": "46:907",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "43:435",
+    "dest": "44:455",
+    "kind": "OVERLAY",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "43:437",
+    "dest": "47:756",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:439;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:447;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:447;38:130",
+    "dest": "46:938",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "43:465",
+    "dest": "44:455",
+    "kind": "OVERLAY",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "43:467",
+    "dest": "47:756",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:469;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:477;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:477;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "43:495",
+    "dest": "44:455",
+    "kind": "OVERLAY",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "43:497",
+    "dest": "47:756",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:499;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:507;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:507;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "43:524",
+    "dest": "43:476",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:526;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:534;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:534;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "43:551",
+    "dest": "44:455",
+    "kind": "OVERLAY",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:553;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:561;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:561;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I43:580;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "43:560",
+    "dest": "41:220",
+    "kind": "NAVIGATE",
+    "trigger": "AFTER_TIMEOUT"
+  },
+  {
+    "node": "I44:456;34:50",
+    "dest": null,
+    "kind": "CLOSE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "44:455",
+    "dest": "44:463",
+    "kind": "SWAP",
+    "trigger": "AFTER_TIMEOUT"
+  },
+  {
+    "node": "I44:464;34:56",
+    "dest": "44:479",
+    "kind": "SWAP",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I44:464;34:58",
+    "dest": "44:487",
+    "kind": "SWAP",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I44:464;34:60",
+    "dest": "44:497",
+    "kind": "SWAP",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I44:480;34:64",
+    "dest": "44:515",
+    "kind": "SWAP",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I44:488;34:70",
+    "dest": null,
+    "kind": "CLOSE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I44:498;34:76",
+    "dest": null,
+    "kind": "CLOSE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I44:508;34:80",
+    "dest": "44:455",
+    "kind": "SWAP",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I44:516;34:86",
+    "dest": "44:479",
+    "kind": "SWAP",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I44:516;34:88",
+    "dest": "44:487",
+    "kind": "SWAP",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I44:516;34:90",
+    "dest": "44:497",
+    "kind": "SWAP",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:649;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:649;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:659;36:66",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:664;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:672;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:672;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:685;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "46:671",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "AFTER_TIMEOUT"
+  },
+  {
+    "node": "I46:693;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:693;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:703;36:70;35:63",
+    "dest": "43:476",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "46:716",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:718;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:726;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:726;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:736;36:80;35:63",
+    "dest": "43:476",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:736;36:90",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:751;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:759;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:759;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:769;36:92;35:63",
+    "dest": "43:476",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:769;36:102",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:784;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:792;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:792;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:802;36:106",
+    "dest": "46:791",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:807;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:815;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:815;38:130",
+    "dest": "46:814",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:825;36:70;35:63",
+    "dest": "43:329",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:838;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:846;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:846;38:130",
+    "dest": "46:845",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:856;36:70;35:63",
+    "dest": "43:358",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:869;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:877;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:877;38:130",
+    "dest": "46:876",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:887;36:70;35:63",
+    "dest": "43:387",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:900;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:908;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:908;38:130",
+    "dest": "46:907",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:918;36:70;35:63",
+    "dest": "43:416",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:931;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:939;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:939;38:130",
+    "dest": "46:938",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:949;36:70;35:63",
+    "dest": "43:446",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I46:962;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:757;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:757;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:768;35:63",
+    "dest": "47:846",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "47:779",
+    "dest": null,
+    "kind": "BACK",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:781;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:789;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:789;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:800;35:77",
+    "dest": "47:756",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:812;35:70",
+    "dest": "55:1287",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:822;35:63",
+    "dest": "55:1330",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "47:834",
+    "dest": "47:910",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "47:837",
+    "dest": null,
+    "kind": "BACK",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:839;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:847;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:847;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "47:869",
+    "dest": null,
+    "kind": "BACK",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:871;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "47:846",
+    "dest": "47:788",
+    "kind": "NAVIGATE",
+    "trigger": "AFTER_TIMEOUT"
+  },
+  {
+    "node": "I47:879;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:879;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:890;35:91",
+    "dest": "47:846",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "47:901",
+    "dest": null,
+    "kind": "BACK",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:903;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:911;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:911;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:922;35:77",
+    "dest": "47:756",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:934;35:70",
+    "dest": "55:1287",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:944;35:63",
+    "dest": "55:1330",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:956;35:63",
+    "dest": "55:1362",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "47:969",
+    "dest": null,
+    "kind": "BACK",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:971;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:979;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:979;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "47:1015",
+    "dest": null,
+    "kind": "BACK",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:1017;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:1025;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:1025;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:1035;35:63",
+    "dest": "48:997",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "47:1046",
+    "dest": null,
+    "kind": "BACK",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:1048;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:1056;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:1056;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:1066;35:63",
+    "dest": "48:1028",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "47:1077",
+    "dest": null,
+    "kind": "BACK",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I47:1079;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I48:948;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I48:948;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I48:958;35:77",
+    "dest": "47:756",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I48:969;35:70",
+    "dest": "55:1287",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I48:979;35:63",
+    "dest": "55:1330",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "48:994",
+    "dest": "47:910",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I48:998;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I48:998;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "48:1019",
+    "dest": null,
+    "kind": "BACK",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I48:1021;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I48:1029;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I48:1029;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "48:1050",
+    "dest": null,
+    "kind": "BACK",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I48:1052;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1014;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1014;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "49:1027",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1029;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1037;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1037;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "49:1055",
+    "dest": "50:1299",
+    "kind": "OVERLAY",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1057;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1065;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1065;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "49:1083",
+    "dest": "41:220",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1085;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1093;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1093;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "49:1111",
+    "dest": "41:220",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1113;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1121;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1121;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "49:1139",
+    "dest": "42:402",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1141;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1149;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1149;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "49:1168",
+    "dest": "43:476",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1170;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1178;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I49:1178;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "49:1191",
+    "dest": null,
+    "kind": "BACK",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1102;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1102;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1120",
+    "dest": "50:1101",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1122",
+    "dest": "50:1167",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1124",
+    "dest": "50:1233",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1126",
+    "dest": "51:1314",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1128;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1136;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1136;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1156",
+    "dest": "50:1299",
+    "kind": "OVERLAY",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1158",
+    "dest": "51:1371",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1160;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1168;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1168;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1186",
+    "dest": "50:1101",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1188",
+    "dest": "50:1167",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1190",
+    "dest": "50:1233",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1192",
+    "dest": "51:1333",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1194;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1202;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1202;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1222",
+    "dest": "50:1299",
+    "kind": "OVERLAY",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1224",
+    "dest": "51:1371",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1226;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1234;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1234;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1252",
+    "dest": "50:1101",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1254",
+    "dest": "50:1167",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1256",
+    "dest": "50:1233",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1258",
+    "dest": "51:1352",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1260;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1268;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1268;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1288",
+    "dest": "50:1299",
+    "kind": "OVERLAY",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "50:1290",
+    "dest": "51:1371",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1292;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1300;34:56",
+    "dest": "44:479",
+    "kind": "SWAP",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1300;34:58",
+    "dest": "44:487",
+    "kind": "SWAP",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I50:1300;34:60",
+    "dest": "44:497",
+    "kind": "SWAP",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I51:1190;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I51:1190;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "51:1202",
+    "dest": "41:266",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "51:1203",
+    "dest": "41:314",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "51:1204",
+    "dest": "41:362",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I51:1207;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I51:1236;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I51:1236;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "51:1249",
+    "dest": "41:266",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "51:1250",
+    "dest": "41:314",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "51:1251",
+    "dest": "41:362",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "51:1252",
+    "dest": "51:1283",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I51:1254;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1471;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "51:1283",
+    "dest": "42:380",
+    "kind": "NAVIGATE",
+    "trigger": "AFTER_TIMEOUT"
+  },
+  {
+    "node": "I51:1306;34:76",
+    "dest": null,
+    "kind": "CLOSE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1477;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "51:1314",
+    "dest": "50:1135",
+    "kind": "NAVIGATE",
+    "trigger": "AFTER_TIMEOUT"
+  },
+  {
+    "node": "I55:1483;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "51:1333",
+    "dest": "50:1201",
+    "kind": "NAVIGATE",
+    "trigger": "AFTER_TIMEOUT"
+  },
+  {
+    "node": "I55:1489;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "51:1352",
+    "dest": "50:1267",
+    "kind": "NAVIGATE",
+    "trigger": "AFTER_TIMEOUT"
+  },
+  {
+    "node": "I51:1372;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I51:1372;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "51:1390",
+    "dest": null,
+    "kind": "BACK",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I51:1392;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1288;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1288;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1298;35:77",
+    "dest": "47:788",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1308;35:63",
+    "dest": "47:978",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "55:1321",
+    "dest": "47:788",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1323;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1331;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1331;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "55:1353",
+    "dest": "47:788",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1355;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1363;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1363;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "55:1385",
+    "dest": "47:788",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1387;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1395;38:129",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1395;38:130",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "55:1408",
+    "dest": "46:671",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "I55:1410;33:44",
+    "dest": "49:1177",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1569",
+    "dest": "41:38",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1574",
+    "dest": "41:220",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1580",
+    "dest": "51:1189",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1585",
+    "dest": "43:506",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1591",
+    "dest": "50:1101",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1596",
+    "dest": "51:1235",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1602",
+    "dest": "46:692",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1607",
+    "dest": "43:476",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1611",
+    "dest": "43:533",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1613",
+    "dest": "43:560",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1616",
+    "dest": "50:1135",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1618",
+    "dest": "46:648",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1621",
+    "dest": "46:725",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1623",
+    "dest": "46:758",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1626",
+    "dest": "46:791",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1628",
+    "dest": "55:1394",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1631",
+    "dest": "47:878",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1633",
+    "dest": "48:947",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1636",
+    "dest": "49:1036",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1638",
+    "dest": "49:1013",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1641",
+    "dest": "49:1064",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1643",
+    "dest": "49:1092",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1646",
+    "dest": "49:1120",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1648",
+    "dest": "49:1148",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1651",
+    "dest": "44:507",
+    "kind": "OVERLAY",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1653",
+    "dest": "51:1305",
+    "kind": "OVERLAY",
+    "trigger": "ON_CLICK"
+  },
+  {
+    "node": "58:1656",
+    "dest": "42:424",
+    "kind": "NAVIGATE",
+    "trigger": "ON_CLICK"
+  }
+]

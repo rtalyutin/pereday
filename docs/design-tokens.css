@@ -1,0 +1,36 @@
+/* Figma v0.3 handoff; reference tokens, not an assertion of full app parity. */
+:root {
+  --paper: #f6f3eb;
+  --surface: #fffefa;
+  --ink: #27251f;
+  --muted: #726f65;
+  --line: #d6d0c2;
+  --coral: #fa745c;
+  --lime: #d9ef7a;
+  --violet: #ddd2f5;
+  --selected: #f0f5d9;
+  --focus: #6542ba;
+  --gap-sm: 8px;
+  --gap-md: 16px;
+  --gap-lg: 24px;
+  --radius-choice: 12px;
+  --radius-button: 10px;
+  --gap-none: 0px;
+  --gap-xs: 4px;
+  --gap-choice: 12px;
+  --gap-panel: 20px;
+  --gap-section: 32px;
+  --gap-page: 40px;
+  --radius-small: 4px;
+  --radius-scene: 16px;
+  --radius-card: 18px;
+  --radius-dialog: 20px;
+  --control-height: 56px;
+  --focus-width: 3px;
+  --motion-hover: 150ms;
+  --motion-state: 0ms;
+}
+@media (prefers-reduced-motion: reduce) {
+  :root { --motion-hover: 0ms; }
+}
+

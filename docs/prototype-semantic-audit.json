@@ -1,0 +1,471 @@
+{
+  "checked": 21,
+  "failures": [],
+  "evidence": [
+    {
+      "name": "UI-01/B01",
+      "id": "41:85",
+      "progress": "Сохранено 0 / 16",
+      "composition": "B01",
+      "choices": 3,
+      "confirm": [
+        {
+          "action": {
+            "type": "NODE",
+            "destinationId": "42:251",
+            "navigation": "NAVIGATE",
+            "transition": null,
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          },
+          "actions": [
+            {
+              "type": "NODE",
+              "destinationId": "42:251",
+              "navigation": "NAVIGATE",
+              "transition": null,
+              "resetVideoPosition": false,
+              "resetScrollPosition": true
+            }
+          ],
+          "trigger": {
+            "type": "ON_CLICK"
+          }
+        }
+      ],
+      "after": []
+    },
+    {
+      "name": "UI-01/B02",
+      "id": "41:130",
+      "progress": "Сохранено 0 / 16",
+      "composition": "B02",
+      "choices": 3,
+      "confirm": [
+        {
+          "action": {
+            "type": "NODE",
+            "destinationId": "42:272",
+            "navigation": "NAVIGATE",
+            "transition": null,
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          },
+          "actions": [
+            {
+              "type": "NODE",
+              "destinationId": "42:272",
+              "navigation": "NAVIGATE",
+              "transition": null,
+              "resetVideoPosition": false,
+              "resetScrollPosition": true
+            }
+          ],
+          "trigger": {
+            "type": "ON_CLICK"
+          }
+        }
+      ],
+      "after": []
+    },
+    {
+      "name": "UI-01/B03",
+      "id": "41:175",
+      "progress": "Сохранено 0 / 16",
+      "composition": "B03",
+      "choices": 3,
+      "confirm": [
+        {
+          "action": {
+            "type": "NODE",
+            "destinationId": "42:293",
+            "navigation": "NAVIGATE",
+            "transition": null,
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          },
+          "actions": [
+            {
+              "type": "NODE",
+              "destinationId": "42:293",
+              "navigation": "NAVIGATE",
+              "transition": null,
+              "resetVideoPosition": false,
+              "resetScrollPosition": true
+            }
+          ],
+          "trigger": {
+            "type": "ON_CLICK"
+          }
+        }
+      ],
+      "after": []
+    },
+    {
+      "name": "UI-03/02A",
+      "id": "41:266",
+      "progress": "Сохранено 1 / 16",
+      "composition": "B01+02A",
+      "choices": 3,
+      "confirm": [
+        {
+          "action": {
+            "type": "NODE",
+            "destinationId": "42:314",
+            "navigation": "NAVIGATE",
+            "transition": null,
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          },
+          "actions": [
+            {
+              "type": "NODE",
+              "destinationId": "42:314",
+              "navigation": "NAVIGATE",
+              "transition": null,
+              "resetVideoPosition": false,
+              "resetScrollPosition": true
+            }
+          ],
+          "trigger": {
+            "type": "ON_CLICK"
+          }
+        }
+      ],
+      "after": []
+    },
+    {
+      "name": "UI-03/02B",
+      "id": "41:314",
+      "progress": "Сохранено 1 / 16",
+      "composition": "B01+02B",
+      "choices": 3,
+      "confirm": [
+        {
+          "action": {
+            "type": "NODE",
+            "destinationId": "42:336",
+            "navigation": "NAVIGATE",
+            "transition": null,
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          },
+          "actions": [
+            {
+              "type": "NODE",
+              "destinationId": "42:336",
+              "navigation": "NAVIGATE",
+              "transition": null,
+              "resetVideoPosition": false,
+              "resetScrollPosition": true
+            }
+          ],
+          "trigger": {
+            "type": "ON_CLICK"
+          }
+        }
+      ],
+      "after": []
+    },
+    {
+      "name": "UI-03/02C",
+      "id": "41:362",
+      "progress": "Сохранено 1 / 16",
+      "composition": "B01+02C",
+      "choices": 3,
+      "confirm": [
+        {
+          "action": {
+            "type": "NODE",
+            "destinationId": "42:358",
+            "navigation": "NAVIGATE",
+            "transition": null,
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          },
+          "actions": [
+            {
+              "type": "NODE",
+              "destinationId": "42:358",
+              "navigation": "NAVIGATE",
+              "transition": null,
+              "resetVideoPosition": false,
+              "resetScrollPosition": true
+            }
+          ],
+          "trigger": {
+            "type": "ON_CLICK"
+          }
+        }
+      ],
+      "after": []
+    },
+    {
+      "name": "UI-04/saving-B01",
+      "id": "42:251",
+      "progress": "Сохранено 0 / 16",
+      "composition": "B01",
+      "choices": 0,
+      "after": [
+        {
+          "action": {
+            "type": "NODE",
+            "destinationId": "43:329",
+            "navigation": "NAVIGATE",
+            "transition": null,
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          },
+          "actions": [
+            {
+              "type": "NODE",
+              "destinationId": "43:329",
+              "navigation": "NAVIGATE",
+              "transition": null,
+              "resetVideoPosition": false,
+              "resetScrollPosition": true
+            }
+          ],
+          "trigger": {
+            "type": "AFTER_TIMEOUT",
+            "timeout": 1
+          }
+        }
+      ]
+    },
+    {
+      "name": "UI-04/saving-B02",
+      "id": "42:272",
+      "progress": "Сохранено 0 / 16",
+      "composition": "B02",
+      "choices": 0,
+      "after": [
+        {
+          "action": {
+            "type": "NODE",
+            "destinationId": "43:358",
+            "navigation": "NAVIGATE",
+            "transition": null,
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          },
+          "actions": [
+            {
+              "type": "NODE",
+              "destinationId": "43:358",
+              "navigation": "NAVIGATE",
+              "transition": null,
+              "resetVideoPosition": false,
+              "resetScrollPosition": true
+            }
+          ],
+          "trigger": {
+            "type": "AFTER_TIMEOUT",
+            "timeout": 1
+          }
+        }
+      ]
+    },
+    {
+      "name": "UI-04/saving-B03",
+      "id": "42:293",
+      "progress": "Сохранено 0 / 16",
+      "composition": "B03",
+      "choices": 0,
+      "after": [
+        {
+          "action": {
+            "type": "NODE",
+            "destinationId": "43:387",
+            "navigation": "NAVIGATE",
+            "transition": null,
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          },
+          "actions": [
+            {
+              "type": "NODE",
+              "destinationId": "43:387",
+              "navigation": "NAVIGATE",
+              "transition": null,
+              "resetVideoPosition": false,
+              "resetScrollPosition": true
+            }
+          ],
+          "trigger": {
+            "type": "AFTER_TIMEOUT",
+            "timeout": 1
+          }
+        }
+      ]
+    },
+    {
+      "name": "UI-04/saving-02A",
+      "id": "42:314",
+      "progress": "Сохранено 1 / 16",
+      "composition": "B01+02A",
+      "choices": 0,
+      "after": [
+        {
+          "action": {
+            "type": "NODE",
+            "destinationId": "43:416",
+            "navigation": "NAVIGATE",
+            "transition": null,
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          },
+          "actions": [
+            {
+              "type": "NODE",
+              "destinationId": "43:416",
+              "navigation": "NAVIGATE",
+              "transition": null,
+              "resetVideoPosition": false,
+              "resetScrollPosition": true
+            }
+          ],
+          "trigger": {
+            "type": "AFTER_TIMEOUT",
+            "timeout": 1
+          }
+        }
+      ]
+    },
+    {
+      "name": "UI-04/saving-02B",
+      "id": "42:336",
+      "progress": "Сохранено 1 / 16",
+      "composition": "B01+02B",
+      "choices": 0,
+      "after": [
+        {
+          "action": {
+            "type": "NODE",
+            "destinationId": "43:446",
+            "navigation": "NAVIGATE",
+            "transition": null,
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          },
+          "actions": [
+            {
+              "type": "NODE",
+              "destinationId": "43:446",
+              "navigation": "NAVIGATE",
+              "transition": null,
+              "resetVideoPosition": false,
+              "resetScrollPosition": true
+            }
+          ],
+          "trigger": {
+            "type": "AFTER_TIMEOUT",
+            "timeout": 1
+          }
+        }
+      ]
+    },
+    {
+      "name": "UI-04/saving-02C",
+      "id": "42:358",
+      "progress": "Сохранено 1 / 16",
+      "composition": "B01+02C",
+      "choices": 0,
+      "after": [
+        {
+          "action": {
+            "type": "NODE",
+            "destinationId": "43:476",
+            "navigation": "NAVIGATE",
+            "transition": null,
+            "resetVideoPosition": false,
+            "resetScrollPosition": true
+          },
+          "actions": [
+            {
+              "type": "NODE",
+              "destinationId": "43:476",
+              "navigation": "NAVIGATE",
+              "transition": null,
+              "resetVideoPosition": false,
+              "resetScrollPosition": true
+            }
+          ],
+          "trigger": {
+            "type": "AFTER_TIMEOUT",
+            "timeout": 1
+          }
+        }
+      ]
+    },
+    {
+      "name": "UI-05/B01",
+      "id": "43:329",
+      "progress": "Сохранено 1 / 16",
+      "composition": "B01",
+      "choices": 0,
+      "after": []
+    },
+    {
+      "name": "UI-05/B02",
+      "id": "43:358",
+      "progress": "Сохранено 1 / 16",
+      "composition": "B02",
+      "choices": 0,
+      "after": []
+    },
+    {
+      "name": "UI-05/B03",
+      "id": "43:387",
+      "progress": "Сохранено 1 / 16",
+      "composition": "B03",
+      "choices": 0,
+      "after": []
+    },
+    {
+      "name": "UI-05/02A",
+      "id": "43:416",
+      "progress": "Сохранено 2 / 16",
+      "composition": "B01+02A",
+      "choices": 0,
+      "after": []
+    },
+    {
+      "name": "UI-05/02B",
+      "id": "43:446",
+      "progress": "Сохранено 2 / 16",
+      "composition": "B01+02B",
+      "choices": 0,
+      "after": []
+    },
+    {
+      "name": "UI-05/02C",
+      "id": "43:476",
+      "progress": "Сохранено 2 / 16",
+      "composition": "B01+02C",
+      "choices": 0,
+      "after": []
+    },
+    {
+      "name": "UI-06/A",
+      "id": "50:1135",
+      "progress": "Сохранено 16 / 16",
+      "choices": 0,
+      "after": []
+    },
+    {
+      "name": "UI-06/B",
+      "id": "50:1201",
+      "progress": "Сохранено 16 / 16",
+      "choices": 0,
+      "after": []
+    },
+    {
+      "name": "UI-06/C",
+      "id": "50:1267",
+      "progress": "Сохранено 16 / 16",
+      "choices": 0,
+      "after": []
+    }
+  ]
+}

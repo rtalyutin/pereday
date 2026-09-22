@@ -1,0 +1,2286 @@
+{
+  "mobile": {
+    "UI-01/start": {
+      "id": "41:38",
+      "height": 1418,
+      "actions": [
+        {
+          "id": "I41:39;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I41:39;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "41:56",
+          "name": "Action/choose-B01"
+        },
+        {
+          "id": "41:62",
+          "name": "Action/choose-B02"
+        },
+        {
+          "id": "41:68",
+          "name": "Action/choose-B03"
+        },
+        {
+          "id": "41:74",
+          "name": "Action/confirm"
+        },
+        {
+          "id": "I41:77;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-01/B01": {
+      "id": "41:85",
+      "height": 1671,
+      "actions": [
+        {
+          "id": "I41:86;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I41:86;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "41:102",
+          "name": "Action/choose-B01"
+        },
+        {
+          "id": "41:108",
+          "name": "Action/choose-B02"
+        },
+        {
+          "id": "41:114",
+          "name": "Action/choose-B03"
+        },
+        {
+          "id": "41:120",
+          "name": "Action/confirm"
+        },
+        {
+          "id": "I41:123;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-01/B02": {
+      "id": "41:130",
+      "height": 1671,
+      "actions": [
+        {
+          "id": "I41:131;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I41:131;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "41:147",
+          "name": "Action/choose-B01"
+        },
+        {
+          "id": "41:153",
+          "name": "Action/choose-B02"
+        },
+        {
+          "id": "41:159",
+          "name": "Action/choose-B03"
+        },
+        {
+          "id": "41:165",
+          "name": "Action/confirm"
+        },
+        {
+          "id": "I41:168;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-01/B03": {
+      "id": "41:175",
+      "height": 1671,
+      "actions": [
+        {
+          "id": "I41:176;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I41:176;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "41:192",
+          "name": "Action/choose-B01"
+        },
+        {
+          "id": "41:198",
+          "name": "Action/choose-B02"
+        },
+        {
+          "id": "41:204",
+          "name": "Action/choose-B03"
+        },
+        {
+          "id": "41:210",
+          "name": "Action/confirm"
+        },
+        {
+          "id": "I41:213;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-02/received": {
+      "id": "41:220",
+      "height": 1693,
+      "actions": [
+        {
+          "id": "I41:221;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I41:221;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "41:238",
+          "name": "Action/choose-02A"
+        },
+        {
+          "id": "41:244",
+          "name": "Action/choose-02B"
+        },
+        {
+          "id": "41:250",
+          "name": "Action/choose-02C"
+        },
+        {
+          "id": "41:256",
+          "name": "Action/confirm"
+        },
+        {
+          "id": "I41:259;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-03/02A": {
+      "id": "41:266",
+      "height": 1749,
+      "actions": [
+        {
+          "id": "I41:267;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I41:267;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "41:286",
+          "name": "Action/choose-02A"
+        },
+        {
+          "id": "41:292",
+          "name": "Action/choose-02B"
+        },
+        {
+          "id": "41:298",
+          "name": "Action/choose-02C"
+        },
+        {
+          "id": "41:304",
+          "name": "Action/confirm"
+        },
+        {
+          "id": "I41:307;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-03/02B": {
+      "id": "41:314",
+      "height": 1749,
+      "actions": [
+        {
+          "id": "I41:315;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I41:315;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "41:334",
+          "name": "Action/choose-02A"
+        },
+        {
+          "id": "41:340",
+          "name": "Action/choose-02B"
+        },
+        {
+          "id": "41:346",
+          "name": "Action/choose-02C"
+        },
+        {
+          "id": "41:352",
+          "name": "Action/confirm"
+        },
+        {
+          "id": "I41:355;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-03/02C": {
+      "id": "41:362",
+      "height": 1749,
+      "actions": [
+        {
+          "id": "I41:363;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I41:363;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "41:382",
+          "name": "Action/choose-02A"
+        },
+        {
+          "id": "41:388",
+          "name": "Action/choose-02B"
+        },
+        {
+          "id": "41:394",
+          "name": "Action/choose-02C"
+        },
+        {
+          "id": "41:400",
+          "name": "Action/confirm"
+        },
+        {
+          "id": "I41:403;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-04/saving-B01": {
+      "id": "42:251",
+      "height": 1356,
+      "actions": [
+        {
+          "id": "I42:252;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I42:252;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "42:269",
+          "name": "Action/pending"
+        },
+        {
+          "id": "I55:1417;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-04/saving-B02": {
+      "id": "42:272",
+      "height": 1356,
+      "actions": [
+        {
+          "id": "I42:273;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I42:273;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "42:290",
+          "name": "Action/pending"
+        },
+        {
+          "id": "I55:1423;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-04/saving-B03": {
+      "id": "42:293",
+      "height": 1356,
+      "actions": [
+        {
+          "id": "I42:294;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I42:294;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "42:311",
+          "name": "Action/pending"
+        },
+        {
+          "id": "I55:1429;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-04/saving-02A": {
+      "id": "42:314",
+      "height": 1356,
+      "actions": [
+        {
+          "id": "I42:315;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I42:315;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "42:333",
+          "name": "Action/pending"
+        },
+        {
+          "id": "I55:1435;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-04/saving-02B": {
+      "id": "42:336",
+      "height": 1356,
+      "actions": [
+        {
+          "id": "I42:337;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I42:337;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "42:355",
+          "name": "Action/pending"
+        },
+        {
+          "id": "I55:1441;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-04/saving-02C": {
+      "id": "42:358",
+      "height": 1356,
+      "actions": [
+        {
+          "id": "I42:359;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I42:359;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "42:377",
+          "name": "Action/pending"
+        },
+        {
+          "id": "I55:1447;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-04/unknown": {
+      "id": "42:380",
+      "height": 1356,
+      "actions": [
+        {
+          "id": "I42:381;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I42:381;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "42:399",
+          "name": "Action/check"
+        },
+        {
+          "id": "I55:1453;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-04/checking": {
+      "id": "42:402",
+      "height": 1356,
+      "actions": [
+        {
+          "id": "I42:403;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I42:403;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "42:421",
+          "name": "Action/check"
+        },
+        {
+          "id": "I55:1459;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-04/session-lost": {
+      "id": "42:424",
+      "height": 1356,
+      "actions": [
+        {
+          "id": "I42:425;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I42:425;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "42:443",
+          "name": "Action/access"
+        },
+        {
+          "id": "I55:1465;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-05/B01": {
+      "id": "43:329",
+      "height": 1436,
+      "actions": [
+        {
+          "id": "I43:330;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I43:330;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "43:347",
+          "name": "Action/share"
+        },
+        {
+          "id": "43:349",
+          "name": "Action/tree"
+        },
+        {
+          "id": "I43:351;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-05/B02": {
+      "id": "43:358",
+      "height": 1436,
+      "actions": [
+        {
+          "id": "I43:359;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I43:359;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "43:376",
+          "name": "Action/share"
+        },
+        {
+          "id": "43:378",
+          "name": "Action/tree"
+        },
+        {
+          "id": "I43:380;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-05/B03": {
+      "id": "43:387",
+      "height": 1436,
+      "actions": [
+        {
+          "id": "I43:388;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I43:388;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "43:405",
+          "name": "Action/share"
+        },
+        {
+          "id": "43:407",
+          "name": "Action/tree"
+        },
+        {
+          "id": "I43:409;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-05/02A": {
+      "id": "43:416",
+      "height": 1436,
+      "actions": [
+        {
+          "id": "I43:417;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I43:417;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "43:435",
+          "name": "Action/share"
+        },
+        {
+          "id": "43:437",
+          "name": "Action/tree"
+        },
+        {
+          "id": "I43:439;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-05/02B": {
+      "id": "43:446",
+      "height": 1436,
+      "actions": [
+        {
+          "id": "I43:447;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I43:447;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "43:465",
+          "name": "Action/share"
+        },
+        {
+          "id": "43:467",
+          "name": "Action/tree"
+        },
+        {
+          "id": "I43:469;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-05/02C": {
+      "id": "43:476",
+      "height": 1436,
+      "actions": [
+        {
+          "id": "I43:477;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I43:477;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "43:495",
+          "name": "Action/share"
+        },
+        {
+          "id": "43:497",
+          "name": "Action/tree"
+        },
+        {
+          "id": "I43:499;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-02/already": {
+      "id": "43:506",
+      "height": 1334,
+      "actions": [
+        {
+          "id": "I43:507;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I43:507;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "43:524",
+          "name": "Action/own"
+        },
+        {
+          "id": "I43:526;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-02/self": {
+      "id": "43:533",
+      "height": 1356,
+      "actions": [
+        {
+          "id": "I43:534;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I43:534;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "43:551",
+          "name": "Action/share"
+        },
+        {
+          "id": "I43:553;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-02/needs-session": {
+      "id": "43:560",
+      "height": 1356,
+      "actions": [
+        {
+          "id": "I43:561;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I43:561;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "43:578",
+          "name": "Action/session"
+        },
+        {
+          "id": "I43:580;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "Share/Preparing": {
+      "id": "44:455",
+      "height": 276,
+      "actions": [
+        {
+          "id": "I44:456;34:50",
+          "name": "Action/back"
+        }
+      ]
+    },
+    "Share/Ready": {
+      "id": "44:463",
+      "height": 477,
+      "actions": [
+        {
+          "id": "I44:464;34:56",
+          "name": "Action/native"
+        },
+        {
+          "id": "I44:464;34:58",
+          "name": "Action/copy"
+        },
+        {
+          "id": "I44:464;34:60",
+          "name": "Action/manual"
+        }
+      ]
+    },
+    "Share/Native": {
+      "id": "44:479",
+      "height": 276,
+      "actions": [
+        {
+          "id": "I44:480;34:64",
+          "name": "Action/close"
+        }
+      ]
+    },
+    "Share/Copied": {
+      "id": "44:487",
+      "height": 333,
+      "actions": [
+        {
+          "id": "I44:488;34:70",
+          "name": "Action/back"
+        }
+      ]
+    },
+    "Share/Manual": {
+      "id": "44:497",
+      "height": 311,
+      "actions": [
+        {
+          "id": "I44:498;34:76",
+          "name": "Action/back"
+        }
+      ]
+    },
+    "Share/Error": {
+      "id": "44:507",
+      "height": 276,
+      "actions": [
+        {
+          "id": "I44:508;34:80",
+          "name": "Action/retry"
+        }
+      ]
+    },
+    "Share/Closed": {
+      "id": "44:515",
+      "height": 477,
+      "actions": [
+        {
+          "id": "I44:516;34:86",
+          "name": "Action/native"
+        },
+        {
+          "id": "I44:516;34:88",
+          "name": "Action/copy"
+        },
+        {
+          "id": "I44:516;34:90",
+          "name": "Action/manual"
+        }
+      ]
+    },
+    "UI-07/Empty": {
+      "id": "46:648",
+      "height": 844,
+      "actions": [
+        {
+          "id": "I46:649;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I46:649;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I46:659;36:66",
+          "name": "Action/create"
+        },
+        {
+          "id": "I46:664;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-07/Loading": {
+      "id": "46:671",
+      "height": 844,
+      "actions": [
+        {
+          "id": "I46:672;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I46:672;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I46:685;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-07/Filled": {
+      "id": "46:692",
+      "height": 972,
+      "actions": [
+        {
+          "id": "I46:693;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I46:693;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I46:703;36:70;35:63",
+          "name": "Action/open"
+        },
+        {
+          "id": "46:716",
+          "name": "Action/create"
+        },
+        {
+          "id": "I46:718;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-07/Partial": {
+      "id": "46:725",
+      "height": 964,
+      "actions": [
+        {
+          "id": "I46:726;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I46:726;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I46:736;36:80;35:63",
+          "name": "Action/open"
+        },
+        {
+          "id": "I46:736;36:90",
+          "name": "Action/more"
+        },
+        {
+          "id": "I46:751;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-07/NextError": {
+      "id": "46:758",
+      "height": 964,
+      "actions": [
+        {
+          "id": "I46:759;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I46:759;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I46:769;36:92;35:63",
+          "name": "Action/open"
+        },
+        {
+          "id": "I46:769;36:102",
+          "name": "Action/more"
+        },
+        {
+          "id": "I46:784;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-07/SessionLost": {
+      "id": "46:791",
+      "height": 844,
+      "actions": [
+        {
+          "id": "I46:792;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I46:792;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I46:802;36:106",
+          "name": "Action/check"
+        },
+        {
+          "id": "I46:807;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-07/own-B01": {
+      "id": "46:814",
+      "height": 892,
+      "actions": [
+        {
+          "id": "I46:815;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I46:815;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I46:825;36:70;35:63",
+          "name": "Action/open"
+        },
+        {
+          "id": "I46:838;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-07/own-B02": {
+      "id": "46:845",
+      "height": 892,
+      "actions": [
+        {
+          "id": "I46:846;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I46:846;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I46:856;36:70;35:63",
+          "name": "Action/open"
+        },
+        {
+          "id": "I46:869;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-07/own-B03": {
+      "id": "46:876",
+      "height": 892,
+      "actions": [
+        {
+          "id": "I46:877;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I46:877;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I46:887;36:70;35:63",
+          "name": "Action/open"
+        },
+        {
+          "id": "I46:900;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-07/own-02A": {
+      "id": "46:907",
+      "height": 892,
+      "actions": [
+        {
+          "id": "I46:908;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I46:908;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I46:918;36:70;35:63",
+          "name": "Action/open"
+        },
+        {
+          "id": "I46:931;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-07/own-02B": {
+      "id": "46:938",
+      "height": 892,
+      "actions": [
+        {
+          "id": "I46:939;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I46:939;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I46:949;36:70;35:63",
+          "name": "Action/open"
+        },
+        {
+          "id": "I46:962;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-08/Collapsed": {
+      "id": "47:756",
+      "height": 1012,
+      "actions": [
+        {
+          "id": "I47:757;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I47:757;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I47:768;35:63",
+          "name": "Action/root"
+        },
+        {
+          "id": "47:779",
+          "name": "Action/own"
+        },
+        {
+          "id": "I47:781;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-08/Expanded": {
+      "id": "47:788",
+      "height": 1546,
+      "actions": [
+        {
+          "id": "I47:789;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I47:789;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I47:800;35:77",
+          "name": "Action/root"
+        },
+        {
+          "id": "I47:812;35:70",
+          "name": "Action/selected"
+        },
+        {
+          "id": "I47:822;35:63",
+          "name": "Action/sibling"
+        },
+        {
+          "id": "47:834",
+          "name": "Action/more"
+        },
+        {
+          "id": "47:837",
+          "name": "Action/own"
+        },
+        {
+          "id": "I47:839;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-08/Loading": {
+      "id": "47:846",
+      "height": 1012,
+      "actions": [
+        {
+          "id": "I47:847;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I47:847;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I47:858;35:84",
+          "name": "Action/root"
+        },
+        {
+          "id": "47:869",
+          "name": "Action/own"
+        },
+        {
+          "id": "I47:871;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-08/Error": {
+      "id": "47:878",
+      "height": 1012,
+      "actions": [
+        {
+          "id": "I47:879;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I47:879;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I47:890;35:91",
+          "name": "Action/root"
+        },
+        {
+          "id": "47:901",
+          "name": "Action/own"
+        },
+        {
+          "id": "I47:903;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-08/More": {
+      "id": "47:910",
+      "height": 1652,
+      "actions": [
+        {
+          "id": "I47:911;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I47:911;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I47:922;35:77",
+          "name": "Action/root"
+        },
+        {
+          "id": "I47:934;35:70",
+          "name": "Action/selected"
+        },
+        {
+          "id": "I47:944;35:63",
+          "name": "Action/sibling"
+        },
+        {
+          "id": "I47:956;35:63",
+          "name": "Action/third"
+        },
+        {
+          "id": "47:969",
+          "name": "Action/own"
+        },
+        {
+          "id": "I47:971;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-08/NoChildren": {
+      "id": "47:978",
+      "height": 1080,
+      "actions": [
+        {
+          "id": "I47:979;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I47:979;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I47:1001;35:98",
+          "name": "Action/leaf"
+        },
+        {
+          "id": "47:1015",
+          "name": "Action/own"
+        },
+        {
+          "id": "I47:1017;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-08/B02": {
+      "id": "47:1024",
+      "height": 889,
+      "actions": [
+        {
+          "id": "I47:1025;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I47:1025;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I47:1035;35:63",
+          "name": "Action/root"
+        },
+        {
+          "id": "47:1046",
+          "name": "Action/own"
+        },
+        {
+          "id": "I47:1048;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-08/B03": {
+      "id": "47:1055",
+      "height": 889,
+      "actions": [
+        {
+          "id": "I47:1056;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I47:1056;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I47:1066;35:63",
+          "name": "Action/root"
+        },
+        {
+          "id": "47:1077",
+          "name": "Action/own"
+        },
+        {
+          "id": "I47:1079;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-08/MoreError": {
+      "id": "48:947",
+      "height": 1195,
+      "actions": [
+        {
+          "id": "I48:948;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I48:948;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I48:958;35:77",
+          "name": "Action/root"
+        },
+        {
+          "id": "I48:969;35:70",
+          "name": "Action/selected"
+        },
+        {
+          "id": "I48:979;35:63",
+          "name": "Action/sibling"
+        },
+        {
+          "id": "48:994",
+          "name": "Action/more"
+        }
+      ]
+    },
+    "UI-08/B02-empty": {
+      "id": "48:997",
+      "height": 954,
+      "actions": [
+        {
+          "id": "I48:998;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I48:998;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I48:1008;35:98",
+          "name": "Action/none"
+        },
+        {
+          "id": "48:1019",
+          "name": "Action/own"
+        },
+        {
+          "id": "I48:1021;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-08/B03-empty": {
+      "id": "48:1028",
+      "height": 954,
+      "actions": [
+        {
+          "id": "I48:1029;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I48:1029;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I48:1039;35:98",
+          "name": "Action/none"
+        },
+        {
+          "id": "48:1050",
+          "name": "Action/own"
+        },
+        {
+          "id": "I48:1052;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-09/link": {
+      "id": "49:1013",
+      "height": 906,
+      "actions": [
+        {
+          "id": "I49:1014;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I49:1014;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "49:1027",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I49:1029;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-09/closed": {
+      "id": "49:1036",
+      "height": 1356,
+      "actions": [
+        {
+          "id": "I49:1037;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I49:1037;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "49:1055",
+          "name": "Action/public-share"
+        },
+        {
+          "id": "I49:1057;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-09/rate": {
+      "id": "49:1064",
+      "height": 1356,
+      "actions": [
+        {
+          "id": "I49:1065;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I49:1065;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "49:1083",
+          "name": "Action/read"
+        },
+        {
+          "id": "I49:1085;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-09/catalog": {
+      "id": "49:1092",
+      "height": 1400,
+      "actions": [
+        {
+          "id": "I49:1093;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I49:1093;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "49:1111",
+          "name": "Action/read"
+        },
+        {
+          "id": "I49:1113;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-09/conflict": {
+      "id": "49:1120",
+      "height": 1378,
+      "actions": [
+        {
+          "id": "I49:1121;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I49:1121;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "49:1139",
+          "name": "Action/check"
+        },
+        {
+          "id": "I49:1141;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-09/asset": {
+      "id": "49:1148",
+      "height": 1348,
+      "actions": [
+        {
+          "id": "I49:1149;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I49:1149;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "49:1168",
+          "name": "Action/read"
+        },
+        {
+          "id": "I49:1170;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "CTA/contact": {
+      "id": "49:1177",
+      "height": 844,
+      "actions": [
+        {
+          "id": "I49:1178;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I49:1178;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "49:1191",
+          "name": "Action/back"
+        }
+      ]
+    },
+    "UI-03/step15-A": {
+      "id": "50:1101",
+      "height": 1497,
+      "actions": [
+        {
+          "id": "I50:1102;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I50:1102;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "50:1120",
+          "name": "Action/final-A"
+        },
+        {
+          "id": "50:1122",
+          "name": "Action/final-B"
+        },
+        {
+          "id": "50:1124",
+          "name": "Action/final-C"
+        },
+        {
+          "id": "50:1126",
+          "name": "Action/confirm"
+        },
+        {
+          "id": "I50:1128;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-06/A": {
+      "id": "50:1135",
+      "height": 1436,
+      "actions": [
+        {
+          "id": "I50:1136;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I50:1136;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "50:1156",
+          "name": "Action/public-share"
+        },
+        {
+          "id": "50:1158",
+          "name": "Action/final-tree"
+        },
+        {
+          "id": "I50:1160;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-03/step15-B": {
+      "id": "50:1167",
+      "height": 1497,
+      "actions": [
+        {
+          "id": "I50:1168;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I50:1168;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "50:1186",
+          "name": "Action/final-A"
+        },
+        {
+          "id": "50:1188",
+          "name": "Action/final-B"
+        },
+        {
+          "id": "50:1190",
+          "name": "Action/final-C"
+        },
+        {
+          "id": "50:1192",
+          "name": "Action/confirm"
+        },
+        {
+          "id": "I50:1194;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-06/B": {
+      "id": "50:1201",
+      "height": 1436,
+      "actions": [
+        {
+          "id": "I50:1202;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I50:1202;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "50:1222",
+          "name": "Action/public-share"
+        },
+        {
+          "id": "50:1224",
+          "name": "Action/final-tree"
+        },
+        {
+          "id": "I50:1226;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-03/step15-C": {
+      "id": "50:1233",
+      "height": 1497,
+      "actions": [
+        {
+          "id": "I50:1234;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I50:1234;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "50:1252",
+          "name": "Action/final-A"
+        },
+        {
+          "id": "50:1254",
+          "name": "Action/final-B"
+        },
+        {
+          "id": "50:1256",
+          "name": "Action/final-C"
+        },
+        {
+          "id": "50:1258",
+          "name": "Action/confirm"
+        },
+        {
+          "id": "I50:1260;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-06/C": {
+      "id": "50:1267",
+      "height": 1436,
+      "actions": [
+        {
+          "id": "I50:1268;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I50:1268;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "50:1288",
+          "name": "Action/public-share"
+        },
+        {
+          "id": "50:1290",
+          "name": "Action/final-tree"
+        },
+        {
+          "id": "I50:1292;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "Share/PublicReady": {
+      "id": "50:1299",
+      "height": 499,
+      "actions": [
+        {
+          "id": "I50:1300;34:56",
+          "name": "Action/native"
+        },
+        {
+          "id": "I50:1300;34:58",
+          "name": "Action/copy"
+        },
+        {
+          "id": "I50:1300;34:60",
+          "name": "Action/manual"
+        }
+      ]
+    },
+    "Role-B/received": {
+      "id": "51:1189",
+      "height": 1693,
+      "actions": [
+        {
+          "id": "I51:1190;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I51:1190;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "51:1202",
+          "name": "Action/choose-02A"
+        },
+        {
+          "id": "51:1203",
+          "name": "Action/choose-02B"
+        },
+        {
+          "id": "51:1204",
+          "name": "Action/choose-02C"
+        },
+        {
+          "id": "51:1205",
+          "name": "Action/confirm"
+        },
+        {
+          "id": "I51:1207;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "Failure/preview": {
+      "id": "51:1235",
+      "height": 1749,
+      "actions": [
+        {
+          "id": "I51:1236;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I51:1236;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "51:1249",
+          "name": "Action/choose-02A"
+        },
+        {
+          "id": "51:1250",
+          "name": "Action/choose-02B"
+        },
+        {
+          "id": "51:1251",
+          "name": "Action/choose-02C"
+        },
+        {
+          "id": "51:1252",
+          "name": "Action/confirm"
+        },
+        {
+          "id": "I51:1254;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "Failure/saving": {
+      "id": "51:1283",
+      "height": 1356,
+      "actions": [
+        {
+          "id": "I51:1284;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I51:1284;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "51:1294",
+          "name": "Action/pending"
+        },
+        {
+          "id": "I55:1471;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "Share/CopyError": {
+      "id": "51:1305",
+      "height": 333,
+      "actions": [
+        {
+          "id": "I51:1306;34:76",
+          "name": "Action/back"
+        }
+      ]
+    },
+    "UI-04/final-A": {
+      "id": "51:1314",
+      "height": 982,
+      "actions": [
+        {
+          "id": "I51:1315;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I51:1315;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "51:1330",
+          "name": "Action/pending"
+        },
+        {
+          "id": "I55:1477;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-04/final-B": {
+      "id": "51:1333",
+      "height": 982,
+      "actions": [
+        {
+          "id": "I51:1334;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I51:1334;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "51:1349",
+          "name": "Action/pending"
+        },
+        {
+          "id": "I55:1483;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-04/final-C": {
+      "id": "51:1352",
+      "height": 982,
+      "actions": [
+        {
+          "id": "I51:1353;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I51:1353;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "51:1368",
+          "name": "Action/pending"
+        },
+        {
+          "id": "I55:1489;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-08/Final": {
+      "id": "51:1371",
+      "height": 1084,
+      "actions": [
+        {
+          "id": "I51:1372;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I51:1372;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "51:1390",
+          "name": "Action/final"
+        },
+        {
+          "id": "I51:1392;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-08/SelectedChildren": {
+      "id": "55:1287",
+      "height": 1140,
+      "actions": [
+        {
+          "id": "I55:1288;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I55:1288;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I55:1298;35:77",
+          "name": "Action/selected-root"
+        },
+        {
+          "id": "I55:1308;35:63",
+          "name": "Action/leaf"
+        },
+        {
+          "id": "55:1321",
+          "name": "Action/tree"
+        },
+        {
+          "id": "I55:1323;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-08/Leaf-02A": {
+      "id": "55:1330",
+      "height": 954,
+      "actions": [
+        {
+          "id": "I55:1331;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I55:1331;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I55:1341;35:98",
+          "name": "Action/none"
+        },
+        {
+          "id": "55:1353",
+          "name": "Action/tree"
+        },
+        {
+          "id": "I55:1355;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-08/Leaf-02B": {
+      "id": "55:1362",
+      "height": 954,
+      "actions": [
+        {
+          "id": "I55:1363;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I55:1363;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I55:1373;35:98",
+          "name": "Action/none"
+        },
+        {
+          "id": "55:1385",
+          "name": "Action/tree"
+        },
+        {
+          "id": "I55:1387;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "UI-07/Error": {
+      "id": "55:1394",
+      "height": 862,
+      "actions": [
+        {
+          "id": "I55:1395;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I55:1395;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "55:1408",
+          "name": "Action/retry"
+        },
+        {
+          "id": "I55:1410;33:44",
+          "name": "Action/contact"
+        }
+      ]
+    },
+    "00 · Индекс прототипа": {
+      "id": "58:1561",
+      "actions": [
+        {
+          "id": "58:1569",
+          "name": "Action/goto:UI-01/start"
+        },
+        {
+          "id": "58:1574",
+          "name": "Action/goto:UI-02/received"
+        },
+        {
+          "id": "58:1580",
+          "name": "Action/goto:Role-B/received"
+        },
+        {
+          "id": "58:1585",
+          "name": "Action/goto:UI-02/already"
+        },
+        {
+          "id": "58:1591",
+          "name": "Action/goto:UI-03/step15-A"
+        },
+        {
+          "id": "58:1596",
+          "name": "Action/goto:Failure/preview"
+        },
+        {
+          "id": "58:1602",
+          "name": "Action/goto:UI-07/Filled"
+        },
+        {
+          "id": "58:1607",
+          "name": "Action/goto:UI-05/02C"
+        },
+        {
+          "id": "58:1611",
+          "name": "Action/goto:UI-02/self"
+        },
+        {
+          "id": "58:1613",
+          "name": "Action/goto:UI-02/needs-session"
+        },
+        {
+          "id": "58:1616",
+          "name": "Action/goto:UI-06/A"
+        },
+        {
+          "id": "58:1618",
+          "name": "Action/goto:UI-07/Empty"
+        },
+        {
+          "id": "58:1621",
+          "name": "Action/goto:UI-07/Partial"
+        },
+        {
+          "id": "58:1623",
+          "name": "Action/goto:UI-07/NextError"
+        },
+        {
+          "id": "58:1626",
+          "name": "Action/goto:UI-07/SessionLost"
+        },
+        {
+          "id": "58:1628",
+          "name": "Action/goto:UI-07/Error"
+        },
+        {
+          "id": "58:1631",
+          "name": "Action/goto:UI-08/Error"
+        },
+        {
+          "id": "58:1633",
+          "name": "Action/goto:UI-08/MoreError"
+        },
+        {
+          "id": "58:1636",
+          "name": "Action/goto:UI-09/closed"
+        },
+        {
+          "id": "58:1638",
+          "name": "Action/goto:UI-09/link"
+        },
+        {
+          "id": "58:1641",
+          "name": "Action/goto:UI-09/rate"
+        },
+        {
+          "id": "58:1643",
+          "name": "Action/goto:UI-09/catalog"
+        },
+        {
+          "id": "58:1646",
+          "name": "Action/goto:UI-09/conflict"
+        },
+        {
+          "id": "58:1648",
+          "name": "Action/goto:UI-09/asset"
+        },
+        {
+          "id": "58:1651",
+          "name": "Action/goto:Share/Error"
+        },
+        {
+          "id": "58:1653",
+          "name": "Action/goto:Share/CopyError"
+        },
+        {
+          "id": "58:1656",
+          "name": "Action/goto:UI-04/session-lost"
+        }
+      ],
+      "height": 2339
+    }
+  },
+  "desktop": {
+    "Desktop/Author": {
+      "id": "52:1288",
+      "actions": [
+        {
+          "id": "I52:1289;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I52:1289;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "52:1306",
+          "name": "Action/choose-B01"
+        },
+        {
+          "id": "52:1312",
+          "name": "Action/choose-B02"
+        },
+        {
+          "id": "52:1318",
+          "name": "Action/choose-B03"
+        },
+        {
+          "id": "52:1324",
+          "name": "Action/confirm"
+        },
+        {
+          "id": "I52:1327;33:49",
+          "name": "Action/contact"
+        }
+      ],
+      "height": 1199
+    },
+    "Desktop/Saved": {
+      "id": "52:1334",
+      "actions": [
+        {
+          "id": "I52:1335;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I52:1335;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "52:1354",
+          "name": "Action/share"
+        },
+        {
+          "id": "52:1356",
+          "name": "Action/tree"
+        },
+        {
+          "id": "I52:1358;33:49",
+          "name": "Action/contact"
+        }
+      ],
+      "height": 1079
+    },
+    "Desktop/Tree": {
+      "id": "53:1333",
+      "actions": [
+        {
+          "id": "I53:1334;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I53:1334;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "I53:1344;35:77",
+          "name": "Action/root"
+        },
+        {
+          "id": "I53:1356;35:70",
+          "name": "Action/selected"
+        },
+        {
+          "id": "I53:1366;35:63",
+          "name": "Action/sibling"
+        },
+        {
+          "id": "53:1378",
+          "name": "Action/more"
+        },
+        {
+          "id": "I53:1381;33:49",
+          "name": "Action/contact"
+        }
+      ],
+      "height": 1117
+    },
+    "Desktop/Final": {
+      "id": "53:1388",
+      "actions": [
+        {
+          "id": "I53:1389;38:129",
+          "name": "Action/home"
+        },
+        {
+          "id": "I53:1389;38:130",
+          "name": "Action/mine"
+        },
+        {
+          "id": "53:1407",
+          "name": "Action/public-share"
+        },
+        {
+          "id": "53:1409",
+          "name": "Action/final-tree"
+        },
+        {
+          "id": "I53:1411;33:49",
+          "name": "Action/contact"
+        }
+      ],
+      "height": 953
+    }
+  },
+  "qa": {
+    "QA/320 · длинное название": {
+      "id": "54:38",
+      "actions": [
+        {
+          "id": "I54:39;53:101",
+          "name": "Action/home"
+        },
+        {
+          "id": "I54:39;53:102",
+          "name": "Action/mine"
+        },
+        {
+          "id": "54:52",
+          "name": "Action/choose-02A"
+        },
+        {
+          "id": "54:53",
+          "name": "Action/choose-02B"
+        },
+        {
+          "id": "54:54",
+          "name": "Action/choose-02C"
+        },
+        {
+          "id": "54:55",
+          "name": "Action/confirm"
+        },
+        {
+          "id": "I54:57;33:44",
+          "name": "Action/contact"
+        }
+      ],
+      "height": 1756
+    },
+    "QA/200% · текст контролов": {
+      "id": "57:1444",
+      "actions": [
+        {
+          "id": "57:1456",
+          "name": "Action/check"
+        }
+      ],
+      "height": 930
+    },
+    "QA/390×568 · панель передачи": {
+      "id": "57:1458",
+      "actions": [
+        {
+          "id": "I57:1459;34:56",
+          "name": "Action/native"
+        },
+        {
+          "id": "I57:1459;34:58",
+          "name": "Action/copy"
+        },
+        {
+          "id": "I57:1459;34:60",
+          "name": "Action/manual"
+        }
+      ],
+      "height": 568
+    }
+  }
+}
